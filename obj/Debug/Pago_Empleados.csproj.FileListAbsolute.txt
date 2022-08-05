@@ -1,0 +1,10 @@
+C:\Users\jhitz\Desktop\Formulario_Empleado\Ejemplo01\bin\Debug\Ejemplo01.exe.config
+C:\Users\jhitz\Desktop\Formulario_Empleado\Ejemplo01\bin\Debug\Ejemplo01.exe
+C:\Users\jhitz\Desktop\Formulario_Empleado\Ejemplo01\bin\Debug\Ejemplo01.pdb
+C:\Users\jhitz\Desktop\Formulario_Empleado\Ejemplo01\obj\Debug\Pago_Empleados.csproj.AssemblyReference.cache
+C:\Users\jhitz\Desktop\Formulario_Empleado\Ejemplo01\obj\Debug\Ejemplo01.Frm_empleados.resources
+C:\Users\jhitz\Desktop\Formulario_Empleado\Ejemplo01\obj\Debug\Ejemplo01.Properties.Resources.resources
+C:\Users\jhitz\Desktop\Formulario_Empleado\Ejemplo01\obj\Debug\Pago_Empleados.csproj.GenerateResource.cache
+C:\Users\jhitz\Desktop\Formulario_Empleado\Ejemplo01\obj\Debug\Pago_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\jhitz\Desktop\Formulario_Empleado\Ejemplo01\obj\Debug\Ejemplo01.exe
+C:\Users\jhitz\Desktop\Formulario_Empleado\Ejemplo01\obj\Debug\Ejemplo01.pdb
